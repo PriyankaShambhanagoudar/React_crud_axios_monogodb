@@ -1,0 +1,26 @@
+form {
+ width: 90%;
+ text-align: center;
+}
+
+label,
+input,
+button {
+ width: 90%;
+}
+
+div {
+ margin-top: 15px;
+}
+
+button {
+ background-color: aquamarine;
+ font-weight: bold;
+}
+h1 {
+ text-align: center;
+}
+* {
+ margin: 0;
+ padding: 0;
+}
